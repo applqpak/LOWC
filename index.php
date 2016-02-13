@@ -30,7 +30,7 @@
 
       <label>Method(GET/POST)P.S: Select POST to append message: <input type="text" name="method" id="method" /></label><Br>
 
-      <label>Append message: <input type="text" name="message" idd="message" /></label><Br>
+      <label>Append message: <input type="text" name="message" id="message" /></label><Br>
 
       <input type="submit" name="submit" id="submit" value="submit" />
 
